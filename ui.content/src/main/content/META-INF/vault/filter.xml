@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/archetype37test" mode="merge"/>
+    <filter root="/content/archetype37test" mode="merge"/>
+    <filter root="/content/dam/archetype37test/asset.jpg" mode="merge"/>
+    <filter root="/content/experience-fragments/archetype37test" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-themes/archetype37test" mode="merge"/>
+    <filter root="/content/dam/formsanddocuments-fdm/archetype37test" mode="merge"/>
+    <filter root="/content/dam/archetype37test/sample_logo.png" mode="merge"/>
+    <filter root="/content/dam/archetype37test/sample_terms.png" mode="merge"/>
+</workspaceFilter>
